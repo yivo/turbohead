@@ -4,7 +4,7 @@
   "authors": [
     "Yaroslav Konoplov <yaroslav@inbox.com>"
   ],
-  "description": "Fix for broken Auto-Fit Page feature in Android Browser 4.0+",
+  "description": "Make Turbolinks and meta tags friends",
   "main": "turbohead.coffee",
   "license": "MIT",
   "ignore": [

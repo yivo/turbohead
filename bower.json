@@ -1,0 +1,20 @@
+{
+  "name": "turbohead",
+  "homepage": "https://github.com/yivo/turbohead",
+  "authors": [
+    "Yaroslav Konoplov <yaroslav@inbox.com>"
+  ],
+  "description": "Fix for broken Auto-Fit Page feature in Android Browser 4.0+",
+  "main": "turbohead.coffee",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "coffeespec",
+    "source",
+    "spec"
+  ]
+}
